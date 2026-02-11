@@ -1,4 +1,6 @@
 name: Publish release to dockerhub
+permissions:
+  contents: read
 on:
   release:
     types: [created]
