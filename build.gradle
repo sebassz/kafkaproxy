@@ -3,7 +3,7 @@ plugins {
 }
 
 ext {
-    kafkaClientVersion = "3.4.0"
+    kafkaClientVersion = "4.2.0"
     proxyBaseVersion = "0.0.16"
     testContainersVersion = "1.21.4"
     junit4Version = "4.13.2"
